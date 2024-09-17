@@ -1,3 +1,5 @@
+### [简体中文](README_ZH.md)
+
 `scrcpy` is an open-source application that allows you to control and display your Android device's screen through your computer. Here are the steps to install `scrcpy` on Windows:
 
 ## 1. **Download and Install Scoop** (if you don't have Scoop yet):
