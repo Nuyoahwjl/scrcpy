@@ -136,7 +136,5 @@ Replace `DEVICE_IP` with your device's actual IP address.
 `scrcpy` offers a wide range of features, and the above are just a few examples. You can run `scrcpy --help` to see more available options.
 
 ## 6. **Effect Demonstration**
-<html>
-<img src="https://nuyoahwjl.github.io/img/scrcpy.png" alt=""style="display: block; margin: 0 auto;">
-</html> 
+![](scrcpy.png)
 
