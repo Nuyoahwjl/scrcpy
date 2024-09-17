@@ -1,4 +1,4 @@
-
+### [English](README_en.md)
 
 `scrcpy` 是一个开源的应用程序，可以让你通过电脑控制和显示Android设备的屏幕。这里是如何在Windows系统上安装 `scrcpy` 的步骤：
 
@@ -136,6 +136,4 @@ scrcpy
 `scrcpy` 提供了非常丰富的功能，这些只是其中的一部分。你可以通过运行 `scrcpy --help` 查看更多可用的选项。
 
 ## 6.**效果展示**
-<html>
-<img src="https://nuyoahwjl.github.io/img/scrcpy.png" alt=""style="display: block; margin: 0 auto;">
-</html>
+![](scrcpy.png)
